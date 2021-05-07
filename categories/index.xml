@@ -5,16 +5,6 @@
     <link>https://aquamay.github.io/categories/</link>
     <description>Recent content in Categories on AquaMAY</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-TW</language>
-    <lastBuildDate>Wed, 18 Dec 2019 21:55:00 +0800</lastBuildDate><atom:link href="https://aquamay.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Golang</title>
-      <link>https://aquamay.github.io/categories/Golang/</link>
-      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
-      
-      <guid>https://aquamay.github.io/categories/Golang/</guid>
-      <description></description>
-    </item>
-    
+    <language>zh-TW</language><atom:link href="https://aquamay.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
